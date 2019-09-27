@@ -11,6 +11,6 @@ services:
       - services/config.env
       - services/secrets.env
     ports: #host:container
-      - "9050:8000"
+      - "8000:8000"
     volumes:
       - .:/app
