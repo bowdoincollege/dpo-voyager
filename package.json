@@ -47,7 +47,7 @@
     "homepage": "https://github.com/framelab/voyager#readme",
     "dependencies": {
         "ajv": "^6.10.2",
-        "express": "^4.17.1",
+        "express": "^4.22.2",
         "filenamify": "^4.1.0",
         "fs-extra": "^8.1.0",
         "hotkeys-js": "^3.6.12",
